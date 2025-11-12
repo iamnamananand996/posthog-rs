@@ -1,6 +1,6 @@
 ///  Error Classification Example
 ///
-///  Run this example (blocking/sync client only):
+///  Run this example (blocking/sync client only)
 ///  cargo run --example error_classification --no-default-features
 
 #[cfg(feature = "async-client")]
